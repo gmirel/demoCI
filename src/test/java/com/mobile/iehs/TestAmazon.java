@@ -20,16 +20,20 @@ public class TestAmazon extends BaseClass {
         System.out.println("----------> RUNNING CHECK CART TEST <----------");
 
         findElementAndSendKey(searchBar, "Centric");
+        System.out.println("Typing in `Centric`");
 
         findElementAndClick(searchBtn);
+        System.out.println("Clicking on search button");
 
         findElementAndClick(amazonLogo);
+        System.out.println("Clicking on Amazon logo");
 
         findElementAndClick(cartLogo);
+        System.out.println("Clicking on cart logo");
 
         String h1Text = getTextFromArea(h1AreaText);
-
         Assert.assertTrue(h1Text.contains("empty"));
+        System.out.println("Asserting text");
 
         System.out.println("----------> END CHECK CART TEST <----------");
 
