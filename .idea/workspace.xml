@@ -1,0 +1,1345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="dfa5213c-7093-41c2-a7eb-34133042b2b1" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="environment.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/properties/environment.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseClass.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/BaseClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="41" column="41" lean-forward="true" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#12660#12661#0" expanded="true" />
+                <element signature="e#12687#12688#0" expanded="true" />
+                <element signature="e#17763#17764#0" expanded="true" />
+                <element signature="e#17841#17842#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestAmazon.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/TestAmazon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run_DEV.bat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jenkins/run_DEV.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="27" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run_PROD.bat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jenkins/run_PROD.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="26" selection-start-column="26" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="273" column="20" selection-start-line="273" selection-start-column="15" selection-end-line="273" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>reflect</find>
+      <find>com.sun.xml.internal</find>
+      <find>System.getProperty(&quot;com.iehs.test&quot;);</find>
+      <find>maven.com</find>
+      <find>build</find>
+      <find>io</find>
+      <find>File</find>
+      <find>hamb</find>
+      <find>createFolder</find>
+      <find>filter</find>
+      <find>break</find>
+      <find>Test</find>
+      <find>isElement</find>
+      <find>TestDiscardMessageReportsAndFilters</find>
+      <find>test</find>
+      <find>isEleme4nt</find>
+      <find>STANDARD_USER</find>
+      <find>get</find>
+      <find>dev</find>
+      <find>&amp;frameworkAppId=%7B%22frameworkAppId%</find>
+      <find>targetURL</find>
+      <find>english</find>
+      <find>%2C%22clientId%22%3A5%2C%22applicationId%22%3A</find>
+      <find>%3A5%2C%22applicationId%22%3A</find>
+      <find>%22%2C%22english%22%3A%22</find>
+      <find>%2C%22roles%22%3A%5B</find>
+      <find>target</find>
+      <find>findElementAndClick(WebElemReports.multiselectToggle);</find>
+      <find>findElementAndClick(WebElemReports.requiredToggle);</find>
+      <find>findElement</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\galbu\IdeaProjects\Insights\src\main\java\com\mobile\iehs\utils\properties</dir>
+      <dir>D:\Automation\insights\trunk\src\main\java\com\mobile\iehs\pages\insights</dir>
+      <dir>D:\Automation\insights\trunk\src</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/smokesuite/DeleteReportFilters.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/smokesuite/EditReportsAndFolders.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/LinkTypeIsDisabledAfterCreate.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/ReportsAndFiltersSecurity.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/TestDiscardMessageReportsAndFilters.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/UnableToCreateWithSameParamName.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/rules/RuleCleanUpTree.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/regressionsuite/ChangeFunctionality.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/regressionsuite/FilterFunctionality.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/regressionsuite/ItemFormDefaults.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/regressionsuite/NumberFields.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/regressionsuite/SearchOnFilters.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/regressionsuite/SecurityFunctionality.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/regressionsuite/Tooltip.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/regressionsuite/UniqueFields.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/smokesuite/HappyFlowAddDeleteAttachment.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/smokesuite/HappyFlowChange.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/smokesuite/HappyFlowCreate1FormDefaults.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/smokesuite/HappyFlowCreateItem.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/smokesuite/HappyFlowEditItem.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/smokesuite/HappyFlowUpdateEmail.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/smokesuite/HappyFlowDeleteItem.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/smokesuite/DeleteFolderAndReport.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/smokesuite/EditReportFilters.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/smokesuite/ReorderFoldersAndReports.java" />
+        <option value="$PROJECT_DIR$/jenkins/Administration/run_DEV_SmokeSuite.bat" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/UnableToAddFiltersForFolderAndUnsavedReport.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/RedBoardValidation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/constants/parameters/administration/ConstantParamReports.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/LimitOfCharOnReportAndFilters.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/TestNoFoldersAvailableMessage.java" />
+        <option value="$PROJECT_DIR$/jenkins/Administration/run_DEV_RegressionSuite.bat" />
+        <option value="$PROJECT_DIR$/jenkins/Administration/run_ACC_RegressionSuite.bat" />
+        <option value="$PROJECT_DIR$/jenkins/Administration/run_MIRR_RegressionSuite.bat" />
+        <option value="$PROJECT_DIR$/jenkins/Administration/run_PROD_RegressionSuite.bat" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/constants/parameters/administration/ConstantParamCustomNaming.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/services/ServiceCustomNaming.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/NoAPPsAvailable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/insights/InsightsLoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/smokesuite/TreeDisplayForVisibility.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/constants/parameters/insights/ConstantParamInsightsCommon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/services/AnotherTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/services/ServiceReports.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/services/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/selectors/webelements/administration/WebElemReports.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/administration/Reports.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/properties/environment.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/mobile/iehs/TestAmazon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/BaseClass.java" />
+        <option value="$PROJECT_DIR$/jenkins/run_DEV_SmokeSuite.bat" />
+        <option value="$PROJECT_DIR$/jenkins/run_PROD_SmokeSuite.bat" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-7" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="jenkins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="properties" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trunk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iehs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/Automation/Insights/trunk" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.42413792" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mobile.iehs.utils.rules" />
+      <recent name="com.mobile.iehs.spcc.smokesuite" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ContinousIntegrationProject\trunk\jenkins" />
+      <recent name="C:\Users\galbu\IdeaProjects\Insights\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestAmazon.testingBasket">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="CreateReportFilters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Insights" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mobile.iehs.administration.smokesuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.mobile.iehs.administration.smokesuite" />
+      <option name="MAIN_CLASS_NAME" value="com.mobile.iehs.administration.smokesuite.CreateReportFilters" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CreateSPCCTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Insights" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mobile.iehs.administration.smokesuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.mobile.iehs.administration.smokesuite" />
+      <option name="MAIN_CLASS_NAME" value="com.mobile.iehs.administration.smokesuite.CreateSPCCTree" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="EditReportFilters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Insights" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mobile.iehs.administration.smokesuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.mobile.iehs.administration.smokesuite" />
+      <option name="MAIN_CLASS_NAME" value="com.mobile.iehs.administration.smokesuite.EditReportFilters" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="HappyFlowCreateItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Insights" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mobile.iehs.spcc.smokesuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.mobile.iehs.spcc.smokesuite" />
+      <option name="MAIN_CLASS_NAME" value="com.mobile.iehs.spcc.smokesuite.HappyFlowCreateItem" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestAmazon.testingBasket" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Insights" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mobile.iehs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.mobile.iehs" />
+      <option name="MAIN_CLASS_NAME" value="com.mobile.iehs.TestAmazon" />
+      <option name="METHOD_NAME" value="testingBasket" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CreateSPCCTree" />
+      <item itemvalue="JUnit.HappyFlowCreateItem" />
+      <item itemvalue="JUnit.CreateReportFilters" />
+      <item itemvalue="JUnit.EditReportFilters" />
+      <item itemvalue="JUnit.TestAmazon.testingBasket" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestAmazon.testingBasket" />
+        <item itemvalue="JUnit.HappyFlowCreateItem" />
+        <item itemvalue="JUnit.EditReportFilters" />
+        <item itemvalue="JUnit.CreateReportFilters" />
+        <item itemvalue="JUnit.CreateSPCCTree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\galbu\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfa5213c-7093-41c2-a7eb-34133042b2b1" name="Default" comment="" />
+      <created>1523346845370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523346845370</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CreateReportFilters - 2018.06.29 at 15h 10m 09s.xml">
+      <configuration name="CreateReportFilters" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateReportFilters - 2018.06.29 at 15h 20m 31s.xml">
+      <configuration name="CreateReportFilters" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EditReportFilters - 2018.06.29 at 15h 21m 36s.xml">
+      <configuration name="EditReportFilters" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HappyFlowCreateItem - 2018.07.09 at 10h 43m 10s.xml">
+      <configuration name="HappyFlowCreateItem" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HappyFlowCreateItem - 2018.07.09 at 10h 54m 36s.xml">
+      <configuration name="HappyFlowCreateItem" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HappyFlowCreateItem - 2018.09.12 at 17h 23m 43s.xml">
+      <configuration name="HappyFlowCreateItem" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAmazon_testingBasket - 2018.09.13 at 09h 26m 55s.xml">
+      <configuration name="TestAmazon.testingBasket" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAmazon_testingBasket - 2018.09.13 at 09h 30m 22s.xml">
+      <configuration name="TestAmazon.testingBasket" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAmazon_testingBasket - 2018.09.13 at 09h 31m 06s.xml">
+      <configuration name="TestAmazon.testingBasket" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAmazon_testingBasket - 2018.09.13 at 09h 32m 10s.xml">
+      <configuration name="TestAmazon.testingBasket" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-7" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49583334" weight="0.32873806" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5025" side_tool="true" weight="0.49410224" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" visible="true" weight="0.20297556" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49791667" weight="0.2873807" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19635417" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4975" weight="0.28207847" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/services/ServiceDelete.java</url>
+          <line>107</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/spcc/SpccHomePage.java</url>
+          <line>105</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/spcc/SpccHomePage.java</url>
+          <line>103</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/smokesuite/TESTReportsFilter.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/smokesuite/TESTReportsFilter.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/services/AnotherTest.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/services/AnotherTest.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/services/AnotherTest.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/services/AnotherTest.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/services/AnotherTest.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/administration/Reports.java</url>
+          <line>517</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/administration/Reports.java</url>
+          <line>518</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/administration/Reports.java</url>
+          <line>519</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/administration/Reports.java</url>
+          <line>520</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/smokesuite/EditReportFilters.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/smokesuite/EditReportFilters.java</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/smokesuite/EditReportFilters.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/smokesuite/EditReportFilters.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/smokesuite/EditReportFilters.java</url>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/smokesuite/TreeDisplayForVisibility.java</url>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/smokesuite/TreeDisplayForVisibility.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/smokesuite/TreeDisplayForVisibility.java</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/TestDiscardMessageReportsAndFilters.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/TestDiscardMessageReportsAndFilters.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/TestDiscardMessageReportsAndFilters.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/TestDiscardMessageReportsAndFilters.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/TestDiscardMessageReportsAndFilters.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/TestDiscardMessageReportsAndFilters.java</url>
+          <line>97</line>
+          <properties />
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/TestDiscardMessageReportsAndFilters.java</url>
+          <line>99</line>
+          <properties />
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/TestDiscardMessageReportsAndFilters.java</url>
+          <line>100</line>
+          <properties />
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/administration/Reports.java</url>
+          <line>726</line>
+          <properties />
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/administration/Reports.java</url>
+          <line>717</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/LinkTypeIsDisabledAfterCreate.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/LinkTypeIsDisabledAfterCreate.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/LinkTypeIsDisabledAfterCreate.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/LinkTypeIsDisabledAfterCreate.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/LinkTypeIsDisabledAfterCreate.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/LinkTypeIsDisabledAfterCreate.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/administration/Reports.java</url>
+          <line>300</line>
+          <properties />
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/administration/Reports.java</url>
+          <line>282</line>
+          <properties />
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/administration/Reports.java</url>
+          <line>283</line>
+          <properties />
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/administration/Reports.java</url>
+          <line>280</line>
+          <properties />
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/administration/Reports.java</url>
+          <line>572</line>
+          <properties />
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/administration/Reports.java</url>
+          <line>573</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/administration/Reports.java</url>
+          <line>576</line>
+          <properties />
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/administration/Reports.java</url>
+          <line>464</line>
+          <properties />
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/LimitOfCharOnReportAndFilters.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/LimitOfCharOnReportAndFilters.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/services/AnotherTest.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/administration/Reports.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/administration/Reports.java</url>
+          <line>190</line>
+          <properties />
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/administration/Reports.java</url>
+          <line>193</line>
+          <properties />
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="161" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Insights.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="16" column="88" lean-forward="true" selection-start-line="16" selection-start-column="88" selection-end-line="16" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/UnableToCreateWithSameParamName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="821">
+          <caret line="94" column="24" lean-forward="true" selection-start-line="94" selection-start-column="24" selection-end-line="94" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/UnableToAddFiltersForFolderAndUnsavedReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="2" lean-forward="true" selection-start-line="32" selection-start-column="2" selection-end-line="91" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/ReportsAndFiltersSecurity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="40" column="64" lean-forward="true" selection-start-line="40" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/RedBoardValidation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="111" column="5" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="111" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/regressionsuite/NumberFields.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1015">
+          <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/MaxLimitOfChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/administration/CustomNaming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/LimitOfCharOnReportAndFilters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="76" column="142" selection-start-line="76" selection-start-column="142" selection-end-line="76" selection-end-column="142" />
+          <folding>
+            <element signature="imports" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jenkins/Administration/run_ACC_RegressionSuite.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jenkins/Administration/run_MIRR_RegressionSuite.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jenkins/Administration/run_PROD_RegressionSuite.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/TestNoFoldersAvailableMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jenkins/Administration/run_DEV_RegressionSuite.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/regressionsuite/UpdateEmail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/smokesuite/HappyFlowCreateItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/NoAPPsAvailable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="26" column="67" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/constants/parameters/administration/ConstantParamCustomNaming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="42" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/ChangeTranslation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/smokesuite/TreeDisplayForVisibility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/insights/InsightsLoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/services/ServiceCustomNaming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/regressionsuite/DisableAdministration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/services/ServiceObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="107" column="51" selection-start-line="107" selection-start-column="51" selection-end-line="107" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/services/ServiceReports.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3438">
+          <caret line="139" column="41" selection-start-line="139" selection-start-column="41" selection-end-line="139" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/services/AnotherTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/services/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/services/ServiceDelete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/smokesuite/CreateSPCCTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/constants/parameters/administration/ConstantParamReports.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/smokesuite/HappyFlowChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/smokesuite/HappyFlowUpdateEmail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="17" column="63" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/administration/smokesuite/CreateReportFilters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="89" column="35" selection-start-line="89" selection-start-column="35" selection-end-line="89" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/selectors/webelements/administration/WebElemReports.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/administration/Reports.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9503">
+          <caret line="573" column="66" selection-start-line="573" selection-start-column="66" selection-end-line="573" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/selectors/webelements/spcc/WebElemSpccCreate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/services/ServiceCreate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/spcc/SpccEditPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="49" column="27" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/rules/RuleCleanUpItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/rules/RuleCleanUpTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/smokesuite/HappyFlowEditItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/smokesuite/HappyFlowDeleteItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/constants/parameters/insights/ConstantParamInsightsCommon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/utils/constants/parameters/insights/ConstantParamInsightsLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/spcc/smokesuite/HappyFlowCreate1FormDefaults.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/mobile/iehs/TestAmazon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/properties/environment.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jenkins/run_DEV.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jenkins/run_PROD.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="273" column="20" selection-start-line="273" selection-start-column="15" selection-end-line="273" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mobile/iehs/pages/BaseClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="41" column="41" lean-forward="true" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#12660#12661#0" expanded="true" />
+            <element signature="e#12687#12688#0" expanded="true" />
+            <element signature="e#17763#17764#0" expanded="true" />
+            <element signature="e#17841#17842#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.42413792" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.42413792" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.42413792" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.42413792" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Insights</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.42413792" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cglib:cglib-nodep:3.2.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.42413792" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
