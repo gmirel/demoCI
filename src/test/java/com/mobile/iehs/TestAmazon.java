@@ -32,7 +32,7 @@ public class TestAmazon extends BaseClass {
         System.out.println("Clicking on cart logo");
 
         String h1Text = getTextFromArea(h1AreaText);
-        Assert.assertTrue(h1Text.contains("emptyy"));
+        Assert.assertTrue(h1Text.contains("empty"));
         System.out.println("Asserting text");
 
         System.out.println("----------> END CHECK CART TEST <----------");
